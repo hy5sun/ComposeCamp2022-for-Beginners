@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">namecard</string>
+    <string name="num_title">Phone</string>
+    <string name="my_phone">010-1234-1234</string>
+    <string name="address_title">Address</string>
+    <string name="my_location">South Korea</string>
+    <string name="github_title">Github</string>
+    <string name="my_github">https://github.com/hy5sun</string>
+    <string name="dream_title">Dream</string>
+    <string name="my_dream">Ninja</string>
+</resources>
